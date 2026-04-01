@@ -1,0 +1,18 @@
+# Python-specific ignores
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env/
+.venv/
+bin/
+# IDE settings
+.idea/
+.vscode/
+
+# Model files
+*.h5
+*.pt
+*.pkl
